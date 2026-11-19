@@ -225,11 +225,11 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 
 **Lettertypes voor koppen:**
 
-![Header lettertype keuze 1 & 2 ](./readme-images/s1fontkeuzeheader1en2.png)
+![Header lettertype keuze 1 & 2 ](./readme-images/s1fontkeuzeheader1en2.jpg)
 
 **Lettertypes voor bodytekst:**
 
-![Body lettertype keuze 1 & 2](./readme-images/s1fontkeuzebody1en2.png)
+![Body lettertype keuze 1 & 2](./readme-images/s1fontkeuzebody1en2.jpg)
 
 
 
