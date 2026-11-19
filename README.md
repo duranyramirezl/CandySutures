@@ -3,7 +3,7 @@
 # Het web is voor iedereen — B2
 
 **Naam:** Lucius Durañy Ramirez  
-**Studentnummer:** 00000000  
+**Studentnummer:** 500927799 
 **Klas:** 201
 
 ---
