@@ -56,7 +56,7 @@ Daarna heb ik de schetsen verder uitgewerkt tot een duidelijker ontwerp. Hierbij
 
 ![Wok to Walk mid-fidelity - stap 2](./readme-images/wok2walk_stap_2.png)
 
-![Wok to Walk mid-fidelity - stap 3](./readme-images/wok2walk_stap_3.png)
+![Wok to Walk mid-fidelity - stap 3](./readme-images/wok2walk_stap_33.png)
 
 ---
 
