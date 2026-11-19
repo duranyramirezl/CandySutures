@@ -205,11 +205,7 @@ Voor deze opdracht heb ik verschillende ideeën heel, heel snel geschetst.
 
 ### Mobile-first schetsen
 
-![Mobile-first schets 1](./readme-images/mobilefirstschets1.png)
-
-![Mobile-first schets 2](./readme-images/mobilefirstschets2.png)
-
-![Mobile-first schets 3](./readme-images/mobilefirstschets3.png)
+![Mobile-first schetsen ](./readme-images/mobilefirstschetsen.png)
 
 ### Kleurpaletten
 
@@ -229,14 +225,11 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 
 **Lettertypes voor koppen:**
 
-![Header lettertype keuze 1](./readme-images/s1fontkeuzeheader1.png)
-
-![Header lettertype keuze 2](./readme-images/s1fontkeuzeheader2.png)
+![Header lettertype keuze 1 & 2 ](./readme-images/s1fontkeuzeheader1en2.png)
 
 **Lettertypes voor bodytekst:**
 
-![Body lettertype keuze 1](./readme-images/s1fontkeuzebody1.png)
+![Body lettertype keuze 1 & 2](./readme-images/s1fontkeuzebody1en2.png)
 
-![Body lettertype keuze 2](./readme-images/s1fontkeuzebody2.png)
 
 
