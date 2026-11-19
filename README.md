@@ -1,4 +1,5 @@
 
+
 # Het web is voor iedereen — B2
 
 **Naam:** Lucius Durañy Ramirez  
@@ -11,13 +12,13 @@
 
 ## Kick-off checkout
 
-### Source hosting platform
+### Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
-Een source hosting platform is een online platform waar je de code van je projecten kunt opslaan, beheren en delen. Het maakt het mogelijk om wijzigingen bij te houden en samen te werken met anderen.
+Een source hosting platform is een online platform waar je de code van je projecten kunt opslaan, beheren en delen. 
 
-Voor dit project heb ik gekozen voor **[NAAM PLATFORM, bijvoorbeeld GitHub]**.
+Voor dit project heb ik gekozen voor Github.
 
-### Domeinnaam
+### Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 
 Mijn gekozen domeinnaam is: CandySutures.nl.
 
@@ -69,7 +70,7 @@ Voor deze oefening mocht ik zelf een website kiezen. Ik heb gekozen voor de home
 
 ### Animatieschets
 
-Ik heb een aantal frames getekend voor een mogelijke animatie tijdens de laadstatus (loading state) wanneer een gebruiker een bestelling plaatst.
+Ik heb een aantal frames getekend voor een mogelijke animatie tijdens de loading state wanneer een gebruiker een bestelling plaatst.
 
 ![Loading state animatie schets](./readme-images/animatieschets.jpg)
 
@@ -77,13 +78,11 @@ Ik heb een aantal frames getekend voor een mogelijke animatie tijdens de laadsta
 
 ## S0 — Praktische CSS
 
-Tijdens deze oefening heb ik geoefend met het toepassen van CSS op HTML-elementen. Ik heb verschillende versies gemaakt om het verschil te zien tussen een eenvoudige HTML-pagina en een pagina met CSS.
-
-**Eerste versie:**
+**Lelijke HTML:**
 
 ![Eerste HTML versie](./readme-images/lelijkehtml.png)
 
-**Verbeterde versie:**
+**Verbeterde HTML:**
 
 ![Verbeterde HTML versie](./readme-images/ietsbeterhtml.png)
 
@@ -93,13 +92,9 @@ Tijdens deze oefening heb ik geoefend met het toepassen van CSS op HTML-elemente
 
 ### Oefening 1 — Font properties
 
-Tijdens deze oefening heb ik verschillende CSS-eigenschappen voor typografie uitgeprobeerd.
-
 ![Font properties oefening](./readme-images/Fontpropertiesoef.png)
 
 ### Oefening 2 — Fonts, kleuren en effecten
-
-Hier heb ik geëxperimenteerd met verschillende lettertypes, kleuren en visuele effecten.
 
 ![You Go Girl](./readme-images/yougogirl.png)
 
@@ -107,15 +102,11 @@ Hier heb ik geëxperimenteerd met verschillende lettertypes, kleuren en visuele 
 
 ### Oefening 3 — Mini-posters
 
-Voor deze opdracht heb ik twee mini-posters gemaakt. Hierbij heb ik gespeeld met typografie, kleur en compositie.
-
 ![Myst poster](./readme-images/myst.png)
 
 ![Cold poster](./readme-images/cold.png)
 
 ### Oefening 4 — Transitions
-
-Ik heb transitions gebruikt om interactieve veranderingen zichtbaar te maken wanneer je met de muis over een element beweegt.
 
 ![Myst hover effect](./readme-images/myst_hover.png)
 
@@ -129,7 +120,7 @@ Ik heb transitions gebruikt om interactieve veranderingen zichtbaar te maken wan
 
 ### Opdracht 1 — De meest webby website
 
-Voor deze opdracht heb ik een website onderzocht en beoordeeld aan de hand van verschillende webby-onderdelen.
+Voor deze opdracht hebben wij digital gardens onderzocht en beoordeeld aan de hand van verschillende webby-onderdelen.
 
 ![Meest webby website scan](./readme-images/meestwebbyscan.jpg)
 
@@ -157,21 +148,15 @@ Ik wil vooral de volgende elementen gebruiken:
 
 Ik wil vooral persoonlijke content maken die te maken heeft met mijn interesses en creativiteit.
 
-De website wordt een plek waar ik dingen kan bewaren, documenteren en delen. Denk bijvoorbeeld aan mijn eigen kunst, albumreviews, filmreviews, persoonlijke blogs en reisverslagen.
+De website wordt een plek waar ik dingen kan bewaren, documenteren en delen. Denk bijvoorbeeld aan mijn eigen kunst, albumreviews, filmreviews, persoonlijke blogs en misschien reisverslagen.
 
 #### Maak ik gebruik van content van anderen?
 
-Ja, ik wil soms gebruikmaken van content van andere artiesten en makers. Denk bijvoorbeeld aan muziekvideo's, YouTube-video's, afbeeldingen en links naar andere websites.
+Ja, ik wil soms gebruikmaken van content van andere artiesten, zoals het delen van de content dat ik leuk vind (bijv muziek video).
 
 Ook kan ik bestaande code als inspiratie of hulpmiddel gebruiken wanneer ik ergens niet uitkom. Hierbij vind ik het belangrijk om de oorspronkelijke maker te vermelden en credits te geven.
 
-Ik wil rekening houden met auteursrechten en geen werk van anderen zomaar overnemen. Waar nodig vraag ik toestemming of gebruik ik content waarvoor ik toestemming heb.
-
-Ik kan bestaande content ook combineren met mijn eigen mening en ervaringen. Bijvoorbeeld door een album te bespreken of uit te leggen waarom een bepaalde artiest mij inspireert.
-
 #### Hoe kan de content worden ervaren?
-
-Ik wil dat Candy Sutures meer is dan alleen een website met tekst en afbeeldingen. De website moet een bepaalde sfeer en beleving hebben.
 
 - **Zien:** Kleurrijke illustraties, collages, patronen, animaties en decoraties.
 - **Horen:** Muziekfragmenten, ingesloten muziekvideo's en eventueel kleine geluidseffecten.
@@ -211,8 +196,7 @@ Samen met mijn groep heb ik visuele inspiratie verzameld en onderzocht.
 
 ### Crazy 8
 
-Voor deze opdracht heb ik verschillende ideeën snel geschetst. Het doel was om in korte tijd meerdere mogelijke richtingen voor het ontwerp te bedenken.
-
+Voor deze opdracht heb ik verschillende ideeën heel, heel snel geschetst. 
 ![Crazy 8 schetsen](./readme-images/crazy8.jpg)
 
 ---
@@ -220,8 +204,6 @@ Voor deze opdracht heb ik verschillende ideeën snel geschetst. Het doel was om 
 ## Huiswerk — Mobile-first schetsen en mini-styleguide
 
 ### Mobile-first schetsen
-
-Ik ben begonnen met het ontwerpen voor een mobiel scherm. Hierbij heb ik nagedacht over de indeling, navigatie en manier waarop bezoekers door de website kunnen bladeren.
 
 ![Mobile-first schets 1](./readme-images/mobilefirstschets1.png)
 
@@ -257,12 +239,4 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 
 ![Body lettertype keuze 2](./readme-images/s1fontkeuzebody2.png)
 
----
 
-# Project: Candy Sutures
-
-Mijn uiteindelijke concept is een persoonlijke Digital Garden onder de naam **Candy Sutures**.
-
-De website combineert mijn interesses in kunst, muziek, films en persoonlijke verhalen. De visuele stijl is geïnspireerd door de emo- en DIY-subcultuur, nostalgische websites uit de jaren 2000 en de combinatie van schattige en griezelige elementen.
-
-Mijn doel is om een persoonlijke digitale wereld te maken die niet alleen mijn interesses laat zien, maar ook mijn eigen stijl en persoonlijkheid weerspiegelt.
