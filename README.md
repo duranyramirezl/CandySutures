@@ -231,5 +231,17 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 
 ![Body lettertype keuze 1 & 2](./readme-images/s1fontkeuzebody1en2.jpg)
 
+## Vrijdag Mobile first: van scherm schetsen naar HTML/CSS
+
+### Zijn je schetsen Webby genoeg? Beoordeel o.b.v. het invulvel.
+- Ik heb een menu, ik heb een aandachttrekkend landing page, maar niet genoeg interactieve elementen. Ook omdat ze lof schetssen zijn is het niet goed te zien dat het snoep is.
+
+### Je hebt je opzet in html gemaakt. Bespreek met elkaar hoe schermontwerp kunt opbouwen/realiseren in html en css.
+- Basisch beginnen, met de nav en content, daarna ga ik elementen digitaal tekenen, plaatsen in de images folder en positioneren met css
+
+#### Feedback van schetsen.
+- Kleur gebruiken voor scherm schetsen, tekst boxen (om te zien waar tekst begint), meer interactieve elementen (knoppen), custom cursor maken..
+- Feedback docent: Motion reduction versie maken en vormgeving van de nav bij de eerste schets is het meest haalbaar.
+
 
 
