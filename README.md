@@ -242,6 +242,8 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 #### Feedback van schetsen.
 - Kleur gebruiken voor scherm schetsen, tekst boxen (om te zien waar tekst begint), meer interactieve elementen (knoppen), custom cursor maken..
 - Feedback docent: Motion reduction versie maken en vormgeving van de nav bij de eerste schets is het meest haalbaar.
+- Maak waar nodig een laatste iteratie, zodat het helder is wat je definitieve bouwplan is in htm/css.
 
+  ![Schets van nieuwe opmaak na feedback met html annotaties ](./readme-images/schetsmethtmlanotaties.jpg)
 
 
