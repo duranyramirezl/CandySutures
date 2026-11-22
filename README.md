@@ -187,6 +187,10 @@ Dit woord past goed bij Candy Sutures vanwege de combinatie van zoete, kleurrijk
 
 Samen met mijn groep heb ik visuele inspiratie verzameld en onderzocht.
 
+![Visual research stap 1](./readme-images/visualresearch1.jpg)
+![Visual research stap 2](./readme-images/visualresearch2.jpg)
+![Visual research stap 3](./readme-images/visualresearch3.jpg)
+
 [Bekijk het Miroboard](https://miro.com/app/board/uXjVEPuW9bg=/?share_link_id=478609892762)
 
 ### Crazy 8
