@@ -211,11 +211,9 @@ Voor deze opdracht heb ik verschillende ideeën heel, heel snel geschetst.
 
 Ik heb verschillende kleurcombinaties onderzocht om te bepalen welke kleuren het beste passen bij de sfeer van Candy Sutures.
 
-![Kleurpalet versie 1](./readme-images/s1kleurpaletv1.jpeg)
+![Kleurpaletten versie 1](./readme-images/test_paletten.png)
+![Kleurpaletten semi definitief light en dark mode ](./readme-images/semi_definitief_light_dark.png)
 
-![Kleurpalet versie 2](./readme-images/s1kleurpaletv2.jpeg)
-
-![Kleurpalet versie 3](./readme-images/s1kleurpaletv3.jpeg)
 
 ### Typografie
 
