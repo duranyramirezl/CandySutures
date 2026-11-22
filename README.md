@@ -239,7 +239,8 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 
   ![Schets van nieuwe opmaak na feedback met html annotaties ](./readme-images/schetsmethtmlanotaties.jpg)
 
-  ## Sprint 0 en 1 Competentie Checkout
+
+## Sprint 0 en 1 Competentie Checkout
 
   
 ### Oriënteren en begrijpen
@@ -251,7 +252,7 @@ Tijdens mijn proces heb ik verschillende ideeën onderzocht en uitgewerkt. Bij S
 
 Voor Candy Sutures heb ik inspiratie verzameld, een Crazy 8-oefening gedaan en verschillende mobile-first schetsen gemaakt. Ook heb ik meerdere kleurpaletten en lettertypes onderzocht. Mijn belangrijkste inspiratie komt uit de Japanse game Fukuomori, de emo- en DIY-subcultuur en persoonlijke websites uit de jaren 2000. Ik wil vooral experimenteren met een combinatie van schattige en griezelige elementen. Ik heb nog niet alle ideeën technisch uitgewerkt, maar door te schetsen en verschillende richtingen te onderzoeken krijg ik steeds een duidelijker beeld van wat ik wil maken. Ik wil bijvoorbeeld nog leren hoe ik kleine animaties, interactieve illustraties en verborgen details kan toevoegen.
 
-###Prototypen en uitwerken
+### Prototypen en uitwerken
 
 Ik heb tijdens de eerste sprint verschillende ontwerpen en oefeningen uitgewerkt. Bij het Wok to Walk-menu heb ik mijn eerste schetsen omgezet naar een duidelijker mid-fidelity ontwerp. Ook heb ik verschillende CSS-oefeningen gemaakt, waarbij ik heb geëxperimenteerd met fonts, kleuren, visuele effecten en transitions. Hierdoor begrijp ik beter hoe CSS de uitstraling en interactie van een website kan veranderen. Voor 
 
@@ -263,7 +264,7 @@ Tijdens dit proces heb ik gemerkt dat schetsen en experimenteren mij helpen om m
 Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil maken waarvan ik nog niet precies weet hoe het werkt met css.  Ik heb nog geen idee hoe ik alle kleine illustraties gaat positioneren. 
 
 
-###Wat wil ik nog leren?
+### Wat wil ik nog leren?
 - Hoe ik interactieve elementen en animaties toevoeg.
 - Hoe ik light en dark mode kan implementeren.
 - Hoe maak ik navigeren met keyboard mogelijk?
