@@ -92,25 +92,20 @@ Ik heb een aantal frames getekend voor een mogelijke animatie tijdens de loading
 
 ### Oefening 1 — Font properties
 
-![Font properties oefening](./readme-images/Fontpropertiesoef.png)
+![Font properties oefening](./readme-images/fontpropertiesoef.png)
 
 ### Oefening 2 — Fonts, kleuren en effecten
 
-![You Go Girl](./readme-images/yougogirl.png)
-
-![Good Vibes Only](./readme-images/Goodvibesonly.png)
+![You Go Girl & Good Vibes Only](./readme-images/fontskleureneffectenoef.png)
 
 ### Oefening 3 — Mini-posters
 
-![Myst poster](./readme-images/myst.png)
+![Myst poster & Cold poster](./readme-images/minipostersoefening3.png)
 
-![Cold poster](./readme-images/cold.png)
 
-### Oefening 4 — Transitions
+### Oefening 4 — Transitions lol
 
-![Myst hover effect](./readme-images/myst_hover.png)
-
-![Cold hover effect](./readme-images/cold_hover.png)
+![Myst & cold hover effect](./readme-images/oefening4hover.GIF)
 
 ---
 
