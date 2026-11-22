@@ -262,7 +262,7 @@ Ik heb tijdens de eerste sprint verschillende ontwerpen en oefeningen uitgewerkt
 
 Candy Sutures heb ik mijn eerste mobile-first schetsen, kleurpaletten en typografiekeuzes gemaakt. Ik heb ook een schets gemaakt met verschillende html elementen om mij te helpen om de website daadwerkelijk te coderen.
 
-###Evalueren
+### Evalueren
 Tijdens dit proces heb ik gemerkt dat schetsen en experimenteren mij helpen om mijn ideeën duidelijker te maken. Ik wilde ontdekken welke stijl goed bij Candy Sutures past en hoe ik mijn interesses kan vertalen naar een website. Hiervoor heb ik inspiratie onderzocht, verschillende schetsen gemaakt, kleurpaletten vergeleken en met CSS geoefend. H
 
 Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil maken waarvan ik nog niet precies weet hoe het werkt met css.  Ik heb nog geen idee hoe ik alle kleine illustraties gaat positioneren. 
