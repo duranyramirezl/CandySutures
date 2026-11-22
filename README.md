@@ -239,4 +239,34 @@ Ik wil een combinatie vinden die expressief is en bij de stijl past, maar tegeli
 
   ![Schets van nieuwe opmaak na feedback met html annotaties ](./readme-images/schetsmethtmlanotaties.jpg)
 
+  ## Sprint 0 en 1 Competentie Checkout
+
+  
+### Oriënteren en begrijpen
+
+Ik begrijp dat deze opdracht bedoeld is om mijn kennis van HTML en CSS te verbeteren en om te leren hoe ik een website kan ontwerpen die niet alleen mooi is, maar ook goed werkt voor verschillende gebruikers. Ik heb tijdens Sprint 1 kennisgemaakt met verschillende CSS-eigenschappen, zoals typografie, kleuren, effecten en transitions. Ook heb ik geoefend met interactie en formulieren, bijvoorbeeld bij het Wok to Walk-menu in sprint 0. Voor mijn eigen project heb ik gekozen voor Candy Sutures, een persoonlijke Digital Garden waar ik mijn kunst en interesses wil verzamelen. 
+
+### Verbeelden en conceptualiseren
+Tijdens mijn proces heb ik verschillende ideeën onderzocht en uitgewerkt. Bij Sprint 0 heb ik bijvoorbeeld de homepage van Newgrounds geschetst en een mogelijke loading-state-animatie getekend. Voor het Wok to Walk-menu heb ik eerst low-fidelity schetsen gemaakt en deze daarna uitgewerkt tot een mid-fidelity ontwerp. 
+
+Voor Candy Sutures heb ik inspiratie verzameld, een Crazy 8-oefening gedaan en verschillende mobile-first schetsen gemaakt. Ook heb ik meerdere kleurpaletten en lettertypes onderzocht. Mijn belangrijkste inspiratie komt uit de Japanse game Fukuomori, de emo- en DIY-subcultuur en persoonlijke websites uit de jaren 2000. Ik wil vooral experimenteren met een combinatie van schattige en griezelige elementen. Ik heb nog niet alle ideeën technisch uitgewerkt, maar door te schetsen en verschillende richtingen te onderzoeken krijg ik steeds een duidelijker beeld van wat ik wil maken. Ik wil bijvoorbeeld nog leren hoe ik kleine animaties, interactieve illustraties en verborgen details kan toevoegen.
+
+###Prototypen en uitwerken
+
+Ik heb tijdens de eerste sprint verschillende ontwerpen en oefeningen uitgewerkt. Bij het Wok to Walk-menu heb ik mijn eerste schetsen omgezet naar een duidelijker mid-fidelity ontwerp. Ook heb ik verschillende CSS-oefeningen gemaakt, waarbij ik heb geëxperimenteerd met fonts, kleuren, visuele effecten en transitions. Hierdoor begrijp ik beter hoe CSS de uitstraling en interactie van een website kan veranderen. Voor 
+
+Candy Sutures heb ik mijn eerste mobile-first schetsen, kleurpaletten en typografiekeuzes gemaakt. Ik heb ook een schets gemaakt met verschillende html elementen om mij te helpen om de website daadwerkelijk te coderen.
+
+###Evalueren
+Tijdens dit proces heb ik gemerkt dat schetsen en experimenteren mij helpen om mijn ideeën duidelijker te maken. Ik wilde ontdekken welke stijl goed bij Candy Sutures past en hoe ik mijn interesses kan vertalen naar een website. Hiervoor heb ik inspiratie onderzocht, verschillende schetsen gemaakt, kleurpaletten vergeleken en met CSS geoefend. H
+
+Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil maken waarvan ik nog niet precies weet hoe het werkt met css.  Ik heb nog geen idee hoe ik alle kleine illustraties gaat positioneren. 
+
+
+###Wat wil ik nog leren?
+- Hoe ik interactieve elementen en animaties toevoeg.
+- Hoe ik light en dark mode kan implementeren.
+- Hoe maak ik navigeren met keyboard mogelijk?
+
+
 
