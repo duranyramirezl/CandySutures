@@ -274,4 +274,17 @@ Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil make
 - Hoe maak ik navigeren met keyboard mogelijk?
 
 
+# Sprint 3
+
+## S3: Maandag Checkout: 
+
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+Je kan max width toevoegen, padding, display grid gebruiken om tekst beter en leesbaar maken.
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+Ik moet heel veel doen, maar sowieso moet ik mijn mobiel media query af maken, ik ben niet super ver.
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+- Lowkey geen idee. 
+
 
