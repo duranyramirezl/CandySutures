@@ -276,7 +276,12 @@ Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil make
 
 # Sprint 3
 
-## S3: Maandag Checkout: 
+## S3: Maandag 
+Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen geschests voor de logo:
+ ![Schets van nieuwe opmaak na feedback met html annotaties ](./readme-images/logoschetsen.jpg)
+
+
+### Checkout: 
 
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 Je kan max width toevoegen, padding, display grid gebruiken om tekst beter en leesbaar maken.
