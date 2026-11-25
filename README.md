@@ -277,10 +277,19 @@ Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil make
 # Sprint 3
 
 ## S3: Maandag 
+
+### Biweeky Geek 
+
+Research en zo 
+
+![Biweekly geek onderzoek 1 ](./readme-images/biweeklygeek_1_1)
+![Biweekly geek onderzoek 2](./readme-images/biweeklygeek_1_3)
+
+
 Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen geschests voor de logo:
  ![Schetsen van logo ideeen](./readme-images/logoschetsen.jpg)
 
- ![Figma screenshoyt van logo ontwerp](./readme-images/logo_hifi_screenshot.png)
+ ![Figma screenshot van logo ontwerp](./readme-images/logo_hifi_screenshot.png)
  
 
 
@@ -297,7 +306,12 @@ Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen gesche
 #### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
 - Lowkey geen idee.
 
-### S3: Woensdag 
+## S3: Woensdag 
+
+### Gestalt opdrachten.
+Wij moesten elkaar's schermschetsen verbeteren met gestaltprincipes
+
+ ![Gestalt schermschetsen](./readme-images/gestaltschermschetsen.png)
 
 Vandaag veel op html en css gezeten, maar ook elementen ontworpen.
  ![Figma screenshoyt van logo ontwerp](./readme-images/knop_ontwerp.png)
