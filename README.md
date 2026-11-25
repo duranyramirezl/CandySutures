@@ -311,7 +311,7 @@ Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen gesche
 ### Gestalt opdrachten.
 Wij moesten elkaar's schermschetsen verbeteren met gestaltprincipes
 
- ![Gestalt schermschetsen](./readme-images/gestaltschermschetsen.PNG)
+ ![Gestalt schermschetsen](./readme-images/gestalt_schermschetsen.PNG)
 
 Vandaag veel op html en css gezeten, maar ook elementen ontworpen.
  ![Figma screenshot van logo ontwerp](./readme-images/knop_ontwerp.png)
