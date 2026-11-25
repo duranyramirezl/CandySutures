@@ -282,8 +282,8 @@ Het technische gedeelte vind ik soms nog lastig, vooral wanneer ik iets wil make
 
 Research en zo 
 
-![Biweekly geek onderzoek 1 ](./readme-images/biweeklygeek_1_1)
-![Biweekly geek onderzoek 2](./readme-images/biweeklygeek_1_3)
+![Biweekly geek onderzoek 1 ](./readme-images/biweeklygeek_1_1.jpg)
+![Biweekly geek onderzoek 2](./readme-images/biweeklygeek_1_3.jpg)
 
 
 Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen geschests voor de logo:
@@ -311,10 +311,10 @@ Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen gesche
 ### Gestalt opdrachten.
 Wij moesten elkaar's schermschetsen verbeteren met gestaltprincipes
 
- ![Gestalt schermschetsen](./readme-images/gestaltschermschetsen.png)
+ ![Gestalt schermschetsen](./readme-images/gestaltschermschetsen.PNG)
 
 Vandaag veel op html en css gezeten, maar ook elementen ontworpen.
- ![Figma screenshoyt van logo ontwerp](./readme-images/knop_ontwerp.png)
+ ![Figma screenshot van logo ontwerp](./readme-images/knop_ontwerp.png)
 
 
 #### Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
