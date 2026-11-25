@@ -286,13 +286,30 @@ Vandaag veel op mijn html file gezeten, maar ook ontworpen. Ik heb ideeen gesche
 
 ### Checkout: 
 
-Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
-Je kan max width toevoegen, padding, display grid gebruiken om tekst beter en leesbaar maken.
+#### Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 
-Vertel welke volgende stap je neemt om je website responsive te maken.
-Ik moet heel veel doen, maar sowieso moet ik mijn mobiel media query af maken, ik ben niet super ver.
+- Je kan max width toevoegen, padding, display grid gebruiken om tekst beter en leesbaar maken.
 
-Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
-- Lowkey geen idee. 
+#### Vertel welke volgende stap je neemt om je website responsive te maken.
+
+- Ik moet heel veel doen, maar sowieso moet ik mijn mobiel media query af maken, ik ben niet super ver.
+
+#### Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+- Lowkey geen idee.
+
+### S3: Woensdag 
+
+Vandaag veel op html en css gezeten, maar ook elementen ontworpen.
+ ![Figma screenshoyt van logo ontwerp](./readme-images/knop_ontwerp.png)
+
+
+#### Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+- Nabijheid, gelijkheid, gemeenschappelijkheid.
+
+#### Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
+- Je kan met verschillende ratios spelen om te zien wat het beste er uit ziet voor jou ontwerp, maar het brengt ook structuur aan jou ontwerp.
+
+#### Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
+- Nabijheid.
 
 
