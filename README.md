@@ -36,9 +36,9 @@ Ik moest de stappen volgen op DLO en samen met Justus is het gelukt.
 
 Voor deze opdracht heb ik gewerkt aan een interactief menu voor Wok to Walk. Hierbij heb ik nagedacht over de stappen die een gebruiker doorloopt bij het samenstellen van een bestelling.
 
-**Eerste stap van het menu:**
+**Referentie:**
 
-![Wok to Walk menu - stap 1](./readme-images/wok2walk_stap1.png)
+![Wok to Walk menu - stap 1](./readme-images/wok2walk_reference.png)
 
 ### Low-fidelity schetsen
 
