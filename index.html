@@ -3,44 +3,134 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="jouw naam" />
-    <meta name="color-scheme" content="dark light" />
+    <meta name="author" content="Lucius Durany Ramirez" />
+    <meta name="color-scheme" content="light" />
 
-    <title>Digital garden van ...</title>
+    <link rel="icon" href="/images/favicon.ico" />
     <link rel="stylesheet" href="./css/normal.css" />
 
-    <!-- Voeg jouw eigen domein toe in data-page -->
-    <script
-      data-page="https://example.com"
-      src="./scripts/main.js"
-      defer
-    ></script>
+    <title>Candy Sutures</title>
+
+    <script src="./scripts/main.js" defer></script>
   </head>
+
   <body>
     <header>
-      <h1>Digital garden van ...</h1>
-      <nav>
+      <img src="images/candysutureslogo_mobile.svg" alt="Candy Sutures logo" />
+      <button type="button" id="menu-button" aria-label="Open menu">
+        <!-- For screenreaders -->
+        <picture>
+          <source
+            srcset="images/hamburger_menu_dark.svg"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img src="images/hamburger_menu.svg" alt="" />
+        </picture>
+      </button>
+
+      <nav id="main-navigation" hidden>
+        <!-- using ID cause i have to use JS for this to open and unhide -->
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="https://github.com/account/repo">Learning Log</a></li>
+          <li><a href="art.html">Art</a></li>
+          <li><a href="music.html">Music</a></li>
+          <li><a href="about.html">About</a></li>
         </ul>
       </nav>
     </header>
 
     <main>
-      <article>
-        <h2>Een titel</h2>
+      <section>
+        <div class="header_one">
+          <!-- I had no idea what else to do here other than a div -->
+          <h1>Welcome to Candy Sutures</h1>
+          <img
+            src="images/floating_head.gif"
+            alt="animation of the website owner's head"
+          />
+        </div>
+        <p>Hi, I'm Kandy! This is an archive of my drawings and thoughts.</p>
 
-        <p>Alinea...</p>
-      </article>
+        <h2>Latest Piece</h2>
+        <h3>Candy Zombie</h3>
 
-      <article>
-        <h2>Nog een titel</h2>
+        <time datetime="2026-11-20">20-11-2026</time>
 
-        <p>Nog een alinea...</p>
-      </article>
+        <img
+          src="images/zombiedrawing.JPEG"
+          alt="Brightly coloured drawing of a cute zombie"
+        />
+
+        <p>
+          Quick render I made on Procreate of this OC. It's been a minute since
+          I've really drawn, to be honest.
+        </p>
+
+        <a href="art.html" class="candy-button">
+          <img src="images/candybutton_blue.svg" alt="button" />
+          <span>See more art</span>
+        </a>
+      </section>
+
+      <section>
+        <h2>Latest listen</h2>
+        <h3><em>Clear Hearts Grey Flowers</em> by Jack Off Jill</h3>
+
+        <img
+          src="images/jackoff_jill_albumcover.jpg"
+          alt="Album cover of Clear Hearts Grey Flowers by Jack Off Jill"
+        />
+        <p>_________________________________________</p>
+        <!-- Don't kill me pls i have no idea how to make a music progress bar -->
+        <button type="button" id="play-button">
+          <picture>
+            <source
+              srcset="images/playbutton_white.svg"
+              media="(prefers-color-scheme: dark)"
+            />
+            <img src="images/playbutton_black.svg" alt="" />
+          </picture>
+        </button>
+
+        <a href="music.html" class="candy-button">
+          <img src="images/candybutton_blue.svg" alt="candy button" />
+          <span>See more music</span>
+        </a>
+      </section>
+
+      <section>
+        <h2>Latest blog post</h2>
+        <h3>China trip 2026</h3>
+
+        <time datetime="2026-09-03">03-09-2026</time>
+
+        <img
+          src="images/collage_china.JPEG"
+          alt="Collage of photographs from our 2026 trip to China"
+        />
+
+        <p>
+          Image dump of our holiday in China this year. I am so grateful for
+          going on this trip with the person I love the most and discovering so
+          much.
+        </p>
+
+        <a href="blog.html" class="candy-button">
+          <img src="images/candybutton_blue.svg" alt="candy button" />
+          <span>See more blogs</span>
+        </a>
+      </section>
     </main>
 
-    <footer></footer>
+    <footer>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="art.html">Art</a></li>
+          <li><a href="music.html">Music</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </footer>
   </body>
 </html>

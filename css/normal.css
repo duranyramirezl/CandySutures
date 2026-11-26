@@ -3,59 +3,331 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
+  font-family: "bubblegum";
+  src: url("../fonts/bubbleboddy_neue/BubbleboddyNeue-Bold Trial.ttf");
+}
+
+@font-face {
+  font-family: "comfortaa_regular";
+  src: url("../fonts/comfortaa/Comfortaa-Regular.ttf");
+}
+
+@font-face {
+  font-family: "comfortaa_fat";
+  src: url("../fonts/comfortaa/Comfortaa-Bold.ttf");
 }
 
 /**************************
-* MARK: Custom properties
+* MARK: Colours
 **************************/
 
-html {
+:root {
+  color-scheme: light;
+  --mauve: #65536c;
+  --hotpink: #ff5fe7;
+  --softpink: #ffd4fe;
+  --cream: #fffce9;
+  --lilac: #f3bdff;
+  --lavander: #afb0ff;
+  --blackpurple: #29232b;
+  --white: #ffffff;
+  --hover-mauve: #8b398b;
+}
+
+:root {
   color-scheme: light dark;
-}
 
+  --mauve: light-dark(#65536c, #f9dcff);
+  --softpink: light-dark(#ffd4fe, #642b63);
+  --cream: light-dark(#fffce9, #29232b);
+  --lilac: light-dark(#f3bdff, #704470);
+  --lavender: light-dark(#afb0ff, #29232b);
+  --blackpurple: light-dark(#29232b, #fffce9);
+  --white: #ffffff;
+  --hover-mauve: #8b398b;
+
+  /* Chatgpt: I am trying to make a color scheme for the dark mode on section  
+  nth of type 2 but it doesnt seem to change what can i do?  */
+  --section-two-top: light-dark(#afb0ff, #29232b);
+  --section-two-bottom: light-dark(#f3bdff, #29232b);
+  --page-background: light-dark(#ff5fe7, #29232b);
+}
 /**************************
-* MARK: Algemene Styling
+* MARK: Mobile css
 **************************/
 
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
+@media screen and (max-width: 40em) {
+  * {
+    box-sizing: border-box; /*Stays all nice an compact in a box*/
+  }
+
+  body {
+    margin: 0;
+    padding: 1em;
+    background-color: var(--page-background);
+    color: var(--blackpurple);
+    font-family: "comfortaa_regular", sans-serif;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /**************************
+  * MARK: Header
+  **************************/
+
+  header {
+    display: flex;
+    flex-wrap: wrap; /*helps keep menu as a column*/
+    padding: 1em;
+    background: var(--softpink);
+    border: 0.12em solid var(--blackpurple);
+    border-bottom: 0;
+    border-radius: 2em 2em 0 0;
+  }
+
+  header img {
+    width: 7em;
+  }
+
+  header button {
+    margin-left: auto; /* keeps button on the right*/
+    padding: 0.5em;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+
+  header button img {
+    width: 2em;
+  }
+
+  header nav {
+    width: 100%;
+  }
+
+  header nav[hidden] {
+    display: none; /*keeps nav hidden*/
+  }
+
+  header nav ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin: 0;
+    padding: 1em 0;
+    list-style: none;
+  }
+
+  header nav a {
+    display: block;
+    padding: 0.5em;
+    color: var(--blackpurple);
+    font-family: "comfortaa_fat", sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  header nav a:hover {
+    color: var(--hover-mauve);
+  }
+
+  /**************************
+  * MARK: Main
+  **************************/
+
+  main {
+    width: 100%;
+    max-width: 30em;
+    margin: 0 auto;
+    border: 0.12em solid var(--blackpurple);
+  }
+
+  main section {
+    padding: 1.5em;
+  }
+
+  main h1 {
+    margin-top: 0;
+    color: var(--mauve);
+    font-family: "bubblegum", sans-serif;
+    font-size: 32px;
+    line-height: 1.2;
+  }
+
+  main h2 {
+    font-family: "comfortaa_fat", sans-serif;
+    font-size: 18px;
+  }
+
+  main h3 {
+    margin: 0.5em 0;
+    font-family: "comfortaa_fat", sans-serif;
+    font-size: 22px;
+    line-height: 1.3;
+  }
+
+  main p {
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  main time {
+    display: block;
+    margin: 0.5em 0;
+    font-size: 12px;
+  }
+
+  main section > img {
+    width: 100%;
+    margin: 1em auto;
+    border: 0.12em solid var(--blackpurple);
+    border-radius: 0.5em;
+  }
+
+  /**************************
+  * MARK: First section
+  **************************/
+
+  .header_one {
+    display: flex;
+    align-items: center;
+  }
+
+  .header_one img {
+    width: 8em;
+    padding: 0.3em;
+  }
+
+  main section:nth-of-type(1),
+  main section:nth-of-type(3) {
+    background-image: light-dark(
+      url("../images/sprinklebackground_lite.png"),
+      url("../images/sprinklebackground_dark_lite.png")
+    );
+  }
+
+  main section:nth-of-type(1) {
+    padding-top: 2em;
+  }
+
+  main section:nth-of-type(1) h2 {
+    margin-top: 2em;
+  }
+
+  main section:nth-of-type(1) p {
+    font-family: "comfortaa_fat", sans-serif;
+  }
+
+  /**************************
+  * MARK: Second section
+  **************************/
+
+  main section:nth-of-type(2) {
+    background: linear-gradient(
+      190deg,
+      var(--section-two-top) 0%,
+      var(--section-two-bottom) 100%
+    );
+  }
+
+  main section:nth-of-type(2) h3 {
+    font-size: 20px;
+    color: var(--mauve);
+  }
+
+  main section:nth-of-type(2) h3 em {
+    font-size: 22px;
+    color: var(--blackpurple);
+    padding-right: 0.4em;
+  }
+
+  /**************************
+  * MARK: Play button
+  **************************/
+
+  #play-button {
+    display: block;
+    margin: 1em auto; /* position in middle of screen*/
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+
+  #play-button img {
+    width: 18em;
+  }
+
+  /**************************
+  * MARK: Candy buttons
+  **************************/
+
+  .candy-button {
+    position: relative;
+    display: block;
+    width: 12em;
+    margin: 1em auto; /* position in middle of screen*/
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .candy-button img {
+    width: 100%;
+  }
+
+  .candy-button span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: var(--blackpurple);
+    font-family: "comfortaa_fat", sans-serif;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+
+  /*Chatgpt prompt: what can i do for the span in an img button stays black even in dark mode*/
+
+  @media (prefers-color-scheme: dark) {
+    .candy-button span {
+      color: #000000;
+    }
+  }
+
+  /**************************
+  * MARK: Footer
+  **************************/
+
+  footer {
+    max-width: 30em;
+    margin: 0 auto;
+    padding: 1.5em;
+    background-color: var(--lilac);
+    border: 0.12em solid var(--blackpurple);
+    border-top: 0;
+    border-radius: 0 0 2em 2em;
+  }
+
+  footer nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em 1em;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  footer nav a {
+    color: var(--blackpurple);
+    font-family: "comfortaa_fat", sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+  }
+
+  footer nav a:hover {
+    text-decoration: underline;
+  }
 }
-
-img {
-  max-width: 100%;
-}
-
-body {
-  font-family: "Comic Relief", system-ui;
-}
-
-/**************************
-* MARK: Header
-**************************/
-
-header {
-}
-
-/**************************
-* MARK: Footer
-**************************/
-
-footer {
-}
-
-/**************************
-* MARK: Main
-**************************/
-
-main {
-}
-
-/**************************
-* MARK: Section ...
-**************************/
