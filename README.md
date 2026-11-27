@@ -327,12 +327,34 @@ Vandaag veel op html en css gezeten, maar ook elementen ontworpen.
 #### Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
 - Nabijheid.
 
-## S3: Donderdag (huiswerk)
+## W3: Donderdag (huiswerk)
 
 Ik heb heel veel gedaan qua css, ik heb de practicum stappen van Dark en Light mode en ging aan de slag met het variables maken voor @media (prefers-color-scheme:dark) en zo. Ik heb daarnaast ook een (heelaas niet functioneel) play button geplaatst bij de muziek sectie en een animatie gif gemaakt van mijn kop zoals in mijn oorspronkelijke lofi design. 
 
 Ik  heb helaas niks super crazy cool gedaan met mijn svgs, ik heb gewoon twee afbeeldigen van hetzelfde icoon maar in verschillende kleuren staan. en in al eerlijkheid ik heb prompts in Ai gebruikt wanneer ik vast zat met iets. al mijn pormpts zijn vermeld in mijn code als comments.
 
  ![Light en dark mode schermafbeeldingen van pagina](./readme-images/lightanddarkmodescreenshot.jpg)
+
+ ## W3: Vrijdag 
+
+Competenties op papier
+  ![Competenties sprint 1 ](./readme-images/competentiesoppapier_sprint1.jpg)
+
+  Ranking van schetsen
+  ![Competenties sprint 1 ](./readme-images/ranking_schetsen.png)
+
+  ### Retrospect 1 teken opdrachten
+  
+  ![ Tekeningen  van vogels en schetsen ](./readme-images/tekeningenretrospect1.jpg)
+  ![ Spanning grafiek ](./readme-images/grafiek_sprint_1.jpg)
+
+  Metafoor: Corset
+  ![ corset metafoor spanning  ](./readme-images/metafoor_sprint1.png)
+  
+  
+
+  
+  
+
 
 
